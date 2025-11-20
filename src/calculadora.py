@@ -1,3 +1,3 @@
-# src/calculadora.py (Com erro proposital)
+# src/calculadora.py (Corrigido)
 def soma(a, b):
-    return a + b + 1  # Erro proposital introduzido!
+    return a + b  # Erro removido
